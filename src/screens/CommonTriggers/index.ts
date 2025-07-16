@@ -1,0 +1,1 @@
+export { CommonTriggers } from "./CommonTriggers";

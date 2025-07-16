@@ -1,0 +1,299 @@
+.frame-wrapper {
+
+  height: 201px;
+  left: 0;
+  overflow-x: scroll;
+  position: absolute;
+  top: 43px;
+  width: 370px;
+}
+
+.frame-wrapper .group-wrapper {
+  height: 201px;
+  width: 1016px;
+}
+
+.frame-wrapper .group-6 {
+  height: 201px;
+  width: 1034px;
+}
+
+.frame-wrapper .overlap-group-2 {
+  height: 201px;
+  position: relative;
+  width: 1016px;
+}
+
+.frame-wrapper .group-7 {
+  height: 201px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1016px;
+}
+
+.frame-wrapper .rectangle-9 {
+  background-color: #2e3b42;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 201px;
+  left: 345px;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.frame-wrapper .rectangle-10 {
+  background-color: #2e3b42;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 201px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.frame-wrapper .rectangle-11 {
+  background-color: #2e3b42;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 201px;
+  left: 690px;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.frame-wrapper .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 24.3px;
+  position: absolute;
+  top: 20px;
+  width: 282px;
+}
+
+.frame-wrapper .p {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 59px;
+  width: 285px;
+}
+
+.frame-wrapper .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.frame-wrapper .heartbutton-instance {
+  background-image: url(https://c.animaapp.com/hwvI6zqJ/img/vector-5.svg) !important;
+  height: 19px !important;
+  left: 287px !important;
+  position: absolute !important;
+  top: 16px !important;
+  transition: all 0.2s ease !important;
+  width: 22px !important;
+}
+
+.frame-wrapper .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 707px;
+  letter-spacing: 0;
+  line-height: 24.3px;
+  position: absolute;
+  top: 23px;
+  width: 282px;
+}
+
+.frame-wrapper .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 707px;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  position: absolute;
+  top: 61px;
+  width: 285px;
+}
+
+.frame-wrapper .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 707px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.frame-wrapper .design-component-instance-node {
+  background-image: url(https://c.animaapp.com/hwvI6zqJ/img/vector-5.svg) !important;
+  height: 19px !important;
+  left: 981px !important;
+  position: absolute !important;
+  top: 18px !important;
+  width: 22px !important;
+}
+
+.frame-wrapper .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 360px;
+  letter-spacing: 0;
+  line-height: 24.3px;
+  position: absolute;
+  top: 20px;
+  width: 282px;
+}
+
+.frame-wrapper .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 360px;
+  letter-spacing: 0;
+  line-height: 18.9px;
+  position: absolute;
+  top: 59px;
+  width: 285px;
+}
+
+.frame-wrapper .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 360px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.frame-wrapper .heartbutton-2 {
+  background-image: url(https://c.animaapp.com/hwvI6zqJ/img/vector-5.svg) !important;
+  height: 19px !important;
+  left: 634px !important;
+  position: absolute !important;
+  top: 16px !important;
+  width: 22px !important;
+}
+
+.frame-wrapper .rectangle-12 {
+  background-color: #d9d9d9;
+  border-radius: 16px;
+  height: 14px;
+  left: 356px;
+  position: absolute;
+  top: 171px;
+  width: 300px;
+}
+
+.frame-wrapper .rectangle-13 {
+  background-color: #ffffff;
+  border-radius: 16px;
+  height: 14px;
+  left: 356px;
+  position: absolute;
+  top: 171px;
+  width: 114px;
+}
+
+.frame-wrapper .rectangle-14 {
+  background-color: #f89725;
+  border-radius: 16px;
+  height: 14px;
+  left: 356px;
+  position: absolute;
+  top: 171px;
+  width: 114px;
+}
+
+.frame-wrapper .rectangle-15 {
+  background-color: #d9d9d9;
+  border-radius: 16px;
+  height: 14px;
+  left: 703px;
+  position: absolute;
+  top: 171px;
+  width: 300px;
+}
+
+.frame-wrapper .rectangle-16 {
+  background-color: #f89725;
+  border-radius: 16px;
+  height: 14px;
+  left: 703px;
+  position: absolute;
+  top: 171px;
+  width: 114px;
+}
+
+.frame-wrapper .rectangle-17 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #f89725;
+  border-radius: 16px;
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 171px;
+  width: 300px;
+}
+
+.frame-wrapper .rectangle-18 {
+  background-color: #f89725;
+  border-radius: 16px;
+  height: 14px;
+  left: 12px;
+  position: absolute;
+  top: 171px;
+  width: 114px;
+}
+
+.frame-wrapper::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-wrapper {
+  padding-bottom: 100px; /* Make room for nav bar */
+}

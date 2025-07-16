@@ -1,0 +1,1 @@
+export { HealthcareProfessionals } from "./HealthcareProfessionals";

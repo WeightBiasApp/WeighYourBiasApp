@@ -1,0 +1,1 @@
+export { PatientScenarioHowItWorks } from "./PatientScenarioHowItWorks";

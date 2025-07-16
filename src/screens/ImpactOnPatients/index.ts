@@ -1,0 +1,1 @@
+export { ImpactOnPatients} from "./ImpactOnPatients";

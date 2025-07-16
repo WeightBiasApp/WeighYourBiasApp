@@ -1,0 +1,1 @@
+export { EducationModule } from "./EducationModule";
